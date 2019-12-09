@@ -1,0 +1,103 @@
+body#LoginForm{ background-image:url("https://www.baxtru.com/wp-content/uploads/2017/06/1496314805.587811.jpe"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
+
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #191970 none repeat scroll 0 0;
+  border-color: #191970;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #4682B4 none repeat scroll 0 0;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 13px;text-decoration: none;}
+
+.topo{
+    text-align: center;
+} 
+.formulario{
+border-style: solid;
+    border-width: 2px;
+    border-color: #191970;
+    padding: 5px 20px 5px 20px;
+    border-radius: 10px;
+    background-color:#FFFFFF;
+
+}
+#opcoes {
+    text-align:center;
+     border-style: solid;
+    border-width: 2px;
+    border-color: #8B008B;
+      padding: 15px;
+       border-radius: 10px;
+       margin-left:30%;
+       margin-right:30%;
+       margin-top: 50px;
+    
+}
+
+
+.topo{
+    background-color:#8B0000;
+    
+}
+.nome h3{
+    color:#D3D3D3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topo a{
+ text-align:right;
+
+}
+.topo{
+    background-color: #696969;
+}
+
+.topo h1{
+    color:white;
+    text-align:left;
+}
+ 
+    
+    
